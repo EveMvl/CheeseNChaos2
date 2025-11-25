@@ -1,0 +1,24 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# ========== Visual Studio / IDE ==========
+*.csproj
+*.sln
+*.user
+*.unityproj
+.vscode/
+.idea/
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity Cache / Package ==========
+Packages/com.unity.*

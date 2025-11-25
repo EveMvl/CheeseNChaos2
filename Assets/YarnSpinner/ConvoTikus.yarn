@@ -1,0 +1,9 @@
+﻿title: ConvoTikus
+position: -2,33
+---
+<<showCharacter "TikusKaya">>
+Tikus Kaya: Halo! Ini dialog pertama kamu.
+
+<<showCharacter "Tikus">>
+Tikus: demn
+===
